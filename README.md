@@ -1,5 +1,5 @@
 # lab1
-Narzędzia - GIT i Python
+Narzędzia - GIT i Python,
 Celem ćwiczenia jest zapoznanie się z podstawami języka programowania Python oraz wykorzystania systemu kontroli wersji Git.
 
 ### Prerekwizyty
